@@ -45,7 +45,7 @@ import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity(), ListSelectionRecyclerViewAdapter.ListSelectionRecyclerViewClickListener {
 
-  //This is part 1
+  //This is part 2
   val listDataManager: ListDataManager = ListDataManager(this)
 
   lateinit var listsRecyclerView: RecyclerView
@@ -56,7 +56,7 @@ class MainActivity : AppCompatActivity(), ListSelectionRecyclerViewAdapter.ListS
     setSupportActionBar(toolbar)
 
 
-    
+
     fab.setOnClickListener {
       showCreateListDialog()
     }
