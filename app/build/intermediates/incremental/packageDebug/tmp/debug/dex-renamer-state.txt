@@ -1,0 +1,4 @@
+#Thu Apr 02 15:34:08 MDT 2020
+base.0=/Users/jbailey/Desktop/Android_Apprentice_v2.0.0/10-completing-the-detail-view/final/ListMaker/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
